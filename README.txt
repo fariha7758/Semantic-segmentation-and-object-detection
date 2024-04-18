@@ -1,0 +1,1 @@
+The semantic_segmentation.ipynb and object_detection.ipynb opens in Google Colab.
